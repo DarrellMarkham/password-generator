@@ -8,8 +8,7 @@ JavaScript Challenge: Password Generator -
 Create an application that an employee can use to generate a random password based on criteria they’ve selected. 
 
 ## Project Visual
-![image](https://user-images.githubusercontent.com/91638369/147891137-630a76f6-77c8-43b1-823d-c94c6f3f473d.png)
-
+![image](https://user-images.githubusercontent.com/91638369/147891191-cd34da46-094b-4a62-95f3-499849cabb7c.png)
 
 ## Built With
 This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code
