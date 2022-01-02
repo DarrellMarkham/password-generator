@@ -1,6 +1,7 @@
 # Password Generator Starter Code
 
 ## Live Application Link
+https://darrellmarkham.github.io/password-generator/
 
 ## Description
 JavaScript Challenge: Password Generator -
